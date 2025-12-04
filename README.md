@@ -1,4 +1,4 @@
-## Índice
+## Índice 
 
 - [Mini Calculadora con JavaScript](#mini-calculadora-con-javascript)
 - [Complejidad](#complejidad)
